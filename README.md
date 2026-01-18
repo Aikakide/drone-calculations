@@ -32,6 +32,7 @@ Hardware (screws etc) (~35 g)
 
 math:
 
+
 Total all‑up weight: ~265 g
 
 Total thrust: ~1200 g (≈11.8 N)
